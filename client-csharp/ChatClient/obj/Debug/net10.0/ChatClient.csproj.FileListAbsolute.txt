@@ -1,0 +1,14 @@
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/bin/Debug/net10.0/ChatClient
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/bin/Debug/net10.0/ChatClient.deps.json
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/bin/Debug/net10.0/ChatClient.runtimeconfig.json
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/bin/Debug/net10.0/ChatClient.dll
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/bin/Debug/net10.0/ChatClient.pdb
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.AssemblyInfoInputs.cache
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.AssemblyInfo.cs
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.dll
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/refint/ChatClient.dll
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.pdb
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ChatClient.genruntimeconfig.cache
+/Users/sweetcandy/works/radius/delta/chat-system/client-csharp/ChatClient/obj/Debug/net10.0/ref/ChatClient.dll
